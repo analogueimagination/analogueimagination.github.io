@@ -6,7 +6,7 @@ header {
     top: 0;
     box-shadow: rgba(74,74,74,.1) 0 4px 15px -1px, rgba(105,105,105,.06) 0 2px 10px -1px;
 }
-header .container {
+.container {
     width: 1000px;
     max-width: 100%;
     display: flex;
