@@ -6,6 +6,8 @@ header {
     box-shadow: rgba(74,74,74,.1) 0 4px 15px -1px, rgba(105,105,105,.06) 0 2px 10px -1px;
 }
 header .container {
+    max-width: 100%;
+    min-width: 75%;
     width: 75%;
 }
 header .site-title {
@@ -23,7 +25,7 @@ text-decoration: none;
 }
 
 .container {
-    max-width: 100%;
+    max-width: 50%;
     min-width: 50%;
     width: 50%;
     display: flex;
