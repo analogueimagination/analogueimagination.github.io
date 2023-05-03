@@ -7,7 +7,7 @@ header {
 }
 header .container {
     max-width: 100%;
-    min-width: 75%;
+    min-width: 50%;
     width: 75%;
 }
 header .site-title {
