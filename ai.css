@@ -43,8 +43,11 @@ text-decoration: none;
     header .container {
         justify-content: center;
     }
+    .row {
+        justify-content: center;
+    }
     .terraimg {
-        flex: 0 0 100%;
+        flex: 0 0 85%;
         box-sizing: content-box;
     }
     .terratext {
