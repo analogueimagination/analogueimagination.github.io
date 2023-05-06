@@ -47,9 +47,6 @@ text-decoration: none;
         width: 50%;
         justify-content: center;
     }
-    .container {
-        width: 50%;
-    }
     .terraimg {
         flex: 0 0 100%;
         box-sizing: content-box;
