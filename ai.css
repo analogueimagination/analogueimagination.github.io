@@ -23,9 +23,6 @@ text-decoration: none;
 }
 
 .container {
-    max-width: 100%;
-    min-width: 50%;
-    width: 50%;
     display: flex;
     justify-content: normal;
     margin-right: auto;
@@ -44,7 +41,6 @@ text-decoration: none;
 
 @media screen and (max-width: 1400px) {
     header .container {
-        width: 50%;
         justify-content: center;
     }
     .terraimg {
