@@ -28,6 +28,7 @@ text-decoration: none;
     width: 50%;
     display: flex;
     flex-direction: row;
+    justify-content: normal;
     align-items: center;
     padding-right: 15px;
     padding-left: 15px;
@@ -48,6 +49,7 @@ text-decoration: none;
 @media screen and (max-width: 1400px) {
     header .container {
         width: 50%;
+        justify-content: center;
     }
     .container {
         width: 50%;
