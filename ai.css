@@ -39,7 +39,7 @@ text-decoration: none;
 }
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1275px) {
     header .container {
         justify-content: center;
     }
