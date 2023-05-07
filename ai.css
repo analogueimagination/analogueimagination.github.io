@@ -47,7 +47,7 @@ text-decoration: none;
         justify-content: center;
     }
     .terraimg {
-        flex: 0 0 85%;
+        flex: 0 0 100%;
         box-sizing: content-box;
     }
     .terratext {
